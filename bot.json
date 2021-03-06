@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "william-soares-bot-vt9y",
+  "private_key_id": "6027809bb98575309d714ea09a547a832f918e2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYN+Pxj5GxgzNt\nU1fHk4SRiDm0oxZchH3SAhfSS1tGbW3Pi1Wf7h3fdCgAP6THningy6mVMGaXOBpf\nky6N42c2UFbwbqYELeqL5wAgJuElk637WIt1MTBmvO04xSMC7xL+Nli5w9jIYdrz\nM0CBNFTNLPlqzUW5rbaHmvvvUS6uAr68AjLhPZsWAKRZN+mJxigwEp73Yt/jANvx\n1mJqmDQt3DO2z6HRk9zaP5OgB1gBGNl3AbKEqIyQ5OGOPiuK4bQXRt6kdxRmjsRy\n8ORx3Ecd5V8eHgZhLCeptWn+c6VPzYzfBDtJlypKtObTP/B43yE8mYdhteTMJ+j3\nHVEgIPFFAgMBAAECggEARfy1YmQb/08eLuWa1MWZ1De5ohBmNRVH2toFlvMAfQf/\n0v3hfe6oKcPiDM6NCnZWTObvohR0KL+mvcgY+iGhL5IKyjGuuEyajqV7w2yCVVT7\nrI+pOIpvBdpimQ0qu5DiX3n890h/G8GdCzrMRuZHCtDjfSAr0SH7IuLWaM0o5Hbz\nTLVw86c8CbMf0EVJ2WKEdK6zyoF4+jCh/DsKIZ7aAOtTrhe1Z4XV9bDcDPlDVn1S\nKnqLLZSSwkoa2EoTVLawZf/ipo7kSvvwPXMWtXrCVUsAUehmg24KVQrxNDtHfnuV\nzJnA+X24m+u/HaErk+IN6qSqHTwR925lY9u0XfSE8wKBgQD81+h8Z/2ARbi5g//v\n8SKFc4uKN3SuuZS9L4heBaQOSMum4qLeStlAM/osFfgCDS+JiuP7JDdr5FUK7kfv\n+a2zqWEFOkkOSRdqo4sg/QoJnDJfyXBoohfRQQDnvI/oU+aS+FA6xZPiZ6Mu99H8\naXamSqoReQkugzJ/xzXXtwc88wKBgQDa6u2K8akZJJvRhZ/UM732p0Y9vEbZJkPq\nCVdrbVvvfveZSKLp2cz6sxCtaGMSA52deOulKjluQnB8Ece3SFyaNn3AMA+RDAgQ\npP5N8Hx9I7L9b+49eklP3HlfqbiWTbcA2ZjM4XUVubuVe8nxj79YuwIEig4RBc2V\nU/lCa/fG5wKBgQCBnjnL1Q+q+5MoX5gMLITy/vnxAF7r1619kumIscGZpQ3p3tN5\nu8tF05+TjCuY+aN+Elqve7CBugsy0FbGmivHJ7TaFjgvf57mhzKi1bWYmZ9lZYIf\n0cD+ACHzqsHna2OPwoZ2qqUWcuTABkF68aHmu+4ViQQA+TchNEHQ9T5bqwKBgBDT\nT5CHRFTfYG55E7CujWIgtyBVkShtbXjWYParwA4nNwZ787F/gOafzp9VT4/54SpS\nOeJG3YUg7B5NC4mFsUBVAdM8nmWqhBArbjQ1UIwZq08ZRDlLZckSi+2TUNGUhYU2\nNC1DAsm5rbYufnXnc3BxZxVMOwqJ5KQegSDexXtvAoGBAOPe5Vnxo39gN4DKNsxK\nnb7dZWWuXSzVdRh0GbD2ZpqB1GW3UelIk8qpTL76g7WA66s7sRQYNL5M6/QiM0ux\nvQ/EHrG1yF/wkF99BnjpdOFupn8o7NUIbi0s0T0E2SeshhLQDvJ4oof8mzMEiNXa\nYw7oA1K0vyShbm/N6NsUjZJc\n-----END PRIVATE KEY-----\n",
+  "client_email": "william-soares-bot-vt9y@appspot.gserviceaccount.com",
+  "client_id": "100739867733335874616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/william-soares-bot-vt9y%40appspot.gserviceaccount.com"
+}
